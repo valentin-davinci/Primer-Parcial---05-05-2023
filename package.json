@@ -1,7 +1,7 @@
 {
-  "name": "app-simple",
+  "name": "app-hibridas-primer-parcial",
   "version": "1.0.0",
-  "description": "mini-sistemita!",
+  "description": "Primer Parcial APP. Hibridas",
   "type": "module",
   "scripts": {
     "server": "cls && nodemon app.js"
