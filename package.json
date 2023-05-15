@@ -1,0 +1,16 @@
+{
+  "name": "app-simple",
+  "version": "1.0.0",
+  "description": "mini-sistemita!",
+  "type": "module",
+  "scripts": {
+    "server": "cls && nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "nodemon": "^2.0.22"
+  }
+}
